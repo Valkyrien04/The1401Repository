@@ -1,0 +1,1 @@
+Git doesn't allow preemptive folder definitions.
